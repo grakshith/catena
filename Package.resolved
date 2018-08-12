@@ -20,6 +20,15 @@
         }
       },
       {
+        "package": "Signals",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSignals.git",
+        "state": {
+          "branch": null,
+          "revision": "d00d066869deec7b42a2ac3bd93f8df6753cdd2d",
+          "version": "0.9.52"
+        }
+      },
+      {
         "package": "Socket",
         "repositoryURL": "https://github.com/IBM-Swift/BlueSocket.git",
         "state": {
@@ -47,30 +56,21 @@
         }
       },
       {
+        "package": "CEpoll",
+        "repositoryURL": "https://github.com/IBM-Swift/CEpoll.git",
+        "state": {
+          "branch": null,
+          "revision": "7b65f0adfe5a1f36fc16b16760f5f99cfd3a4e1a",
+          "version": "0.1.1"
+        }
+      },
+      {
         "package": "CommandLine",
         "repositoryURL": "https://github.com/jatoben/CommandLine.git",
         "state": {
           "branch": null,
           "revision": "73048b666be97d122109276a1b8a69ec407cdb13",
           "version": "3.0.0-pre1"
-        }
-      },
-      {
-        "package": "SSCommonCrypto",
-        "repositoryURL": "https://github.com/daltoniam/common-crypto-spm",
-        "state": {
-          "branch": null,
-          "revision": "2eb3aff0fb57f92f5722fac5d6d20bf64669ca66",
-          "version": "1.1.0"
-        }
-      },
-      {
-        "package": "CommonCrypto",
-        "repositoryURL": "https://github.com/IBM-Swift/CommonCrypto.git",
-        "state": {
-          "branch": null,
-          "revision": "9156d238dbc4c15455b77b45e721b2bb0b995e31",
-          "version": "0.1.5"
         }
       },
       {
@@ -164,6 +164,15 @@
         }
       },
       {
+        "package": "OpenSSL",
+        "repositoryURL": "https://github.com/IBM-Swift/OpenSSL.git",
+        "state": {
+          "branch": null,
+          "revision": "95c405c18a071a1c13616e984ba1b3c6091ca6ca",
+          "version": "0.3.7"
+        }
+      },
+      {
         "package": "PostgresWireServer",
         "repositoryURL": "https://github.com/pixelspark/postgres-wire-server.git",
         "state": {
@@ -182,30 +191,12 @@
         }
       },
       {
-        "package": "Starscream",
-        "repositoryURL": "https://github.com/daltoniam/Starscream.git",
-        "state": {
-          "branch": null,
-          "revision": "114e5df9b6251970a069e8f1c0cbb5802759f0a9",
-          "version": "3.0.5"
-        }
-      },
-      {
         "package": "SwiftParser",
         "repositoryURL": "https://github.com/pixelspark/swift-parser-generator.git",
         "state": {
           "branch": null,
           "revision": "6324b866de8b6bfccdae895ffec6cd1f17e55738",
           "version": "2.0.2"
-        }
-      },
-      {
-        "package": "SSCZLib",
-        "repositoryURL": "https://github.com/daltoniam/zlib-spm.git",
-        "state": {
-          "branch": null,
-          "revision": "83ac8d719a2f3aa775dbdf116a57f56fb2c49abb",
-          "version": "1.1.0"
         }
       }
     ]
